@@ -1,7 +1,3 @@
-// Define the constant variable
 const myVar = "JavaScript is amazing";
-
-// Print it to the console
 console.log(myVar);
-// Print it to the document
-document.write(myVar);
+// This code declares a variable `myVar` and assigns it the string "JavaScript is amazing".
